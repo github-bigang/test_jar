@@ -6,7 +6,7 @@ public class rehappy {
 		// TODO Auto-generated method stub
 		System.out.println("rehappy");
 
-		System.out.println("rehappy hotfix branches");
+		System.out.println("rehappy hotfix2");
 
 	}
 }
