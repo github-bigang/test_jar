@@ -9,5 +9,4 @@ public class rehappy {
 		System.out.println("rehappy t");
 
 	}
-
 }
